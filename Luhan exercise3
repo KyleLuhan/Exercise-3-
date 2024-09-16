@@ -1,0 +1,48 @@
+EXERCISE 3
+
+# Define the string
+
+string = "Hello, world!"
+
+
+# Calculate the length of the string
+
+length = len(string)
+
+
+# Print the length
+
+print("The length of the string is:", length)
+
+
+Output: ✔️
+
+
+
+
+
+
+
+# Get input from the user
+
+user_string = input("Enter a string: ")
+
+
+# Count the number of characters in the string
+
+num_characters = len(user_string)
+
+
+# Display the result
+
+print(f"The number of characters in the string is: {num_characters}")
+
+
+Output: ✔️
+
+
+
+
+
+
+
